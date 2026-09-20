@@ -50,12 +50,9 @@ Delete all app data by deleting the app
 
 8. Changes to This Policy
 We may update this Privacy Policy from time to time. The new version will be posted with an updated date.
-9. Purchases
-Premium is handled by Apple. We do not get your card details. We only keep a yes/no Premium status on your device.
-Camera
-10. X Water may use the camera to estimate bottle size. Photos are not uploaded to our servers.
+9. X Water may use the camera to estimate bottle size. Photos are not uploaded to our servers.
 Then change Last Updated to today’s date.
-11. Contact Us
+10. Contact Us
 If you have any questions about this Privacy Policy or the X Water app, please contact:
 Developer: Jayveen
 Email: krish.jeetun@icloud.com
